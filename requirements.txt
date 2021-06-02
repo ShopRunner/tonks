@@ -123,7 +123,7 @@ transformers==2.11.0
     # via octopod (setup.py)
 typing-extensions==3.7.4.3
     # via torch
-urllib3==1.26.4
+urllib3==1.26.5
     # via
     #   botocore
     #   requests
